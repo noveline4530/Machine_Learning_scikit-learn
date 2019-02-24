@@ -1,5 +1,5 @@
 # basicML
-Records of studying Machine learning with book.
+Records of studying Machine learning with book,
 'Introduction to Machine Learning with Python'
 
 * ml01_190207
