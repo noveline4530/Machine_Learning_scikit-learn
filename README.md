@@ -12,3 +12,6 @@ Records of studying Machine learning with book,
   * Ch 2.3.2 - k-최근접 이웃
 * ml04_190221
   * Ch 2.3.3 - 선형 모델
+* ml05_190225
+  * Ch 2.3.4 나이브 베이즈 분류기
+  * Ch 2.3.5 결정 
