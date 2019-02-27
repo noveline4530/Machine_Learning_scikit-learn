@@ -14,4 +14,9 @@ Records of studying Machine learning with book,
   * Ch 2.3.3 - 선형 모델
 * ml05_190225
   * Ch 2.3.4 나이브 베이즈 분류기
-  * Ch 2.3.5 결정 
+  * Ch 2.3.5 결정 트리
+* ml06_190227
+  * Ch 2.3.6 결정 트리의 앙상블
+    * 랜덤 포레스트
+    * 그래디언트 부스팅 회귀 
+  
