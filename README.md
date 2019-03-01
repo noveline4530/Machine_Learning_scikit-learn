@@ -19,4 +19,5 @@ Records of studying Machine learning with book,
   * Ch 2.3.6 결정 트리의 앙상블
     * 랜덤 포레스트
     * 그래디언트 부스팅 회귀 
-  
+* ml07_190228
+  * CH 2.3.7 커널 서포트 벡터 머신
