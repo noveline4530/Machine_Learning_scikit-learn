@@ -21,3 +21,5 @@ Records of studying Machine learning with book,
     * 그래디언트 부스팅 회귀 
 * ml07_190228
   * CH 2.3.7 커널 서포트 벡터 머신
+* ml08_190301
+  * CH 2.3.8 신경망(딥러닝)
