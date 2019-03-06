@@ -25,4 +25,4 @@ Records of studying Machine learning with book,
   * Ch 2.3.8 신경망(딥러닝)
 * ml08_190306
   * Ch 2.4 분류 예측의 불확실성 추정
-  * Ch 2.5 요약 및 
+  * Ch 2.5 요약 및 정리 
