@@ -31,3 +31,6 @@ Records of studying Machine learning with book,
   * Ch 3.2 비지도 학습의 도전과제
   * Ch 3.3 데이터 전처리와 스케일 조정
   * Ch 3.4.1 주성분 분석(PCA)
+* ml11_190312
+  * Ch 3.4.2 비음수 행렬 분해(NMF)
+  * Ch 3.4.3 t-SNE를 이용한 매니폴드 학습
