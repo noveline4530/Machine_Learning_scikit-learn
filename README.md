@@ -34,3 +34,5 @@ Records of studying Machine learning with book,
 * ml11_190312
   * Ch 3.4.2 비음수 행렬 분해(NMF)
   * Ch 3.4.3 t-SNE를 이용한 매니폴드 학습
+* ml12_190316
+  * Ch 3.5.1 k-평균 군집
