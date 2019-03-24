@@ -36,3 +36,4 @@ Records of studying Machine learning with book,
   * Ch 3.4.3 t-SNE를 이용한 매니폴드 학습
 * ml12_190316
   * Ch 3.5.1 k-평균 군집
+  * Ch 3.5.2 병합 
