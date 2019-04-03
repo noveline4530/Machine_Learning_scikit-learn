@@ -39,3 +39,5 @@ Records of studying Machine learning with book,
   * Ch 3.5.2 병합 
   * Ch 3.5.3 DBSCAN
   * Ch 3.5.4 군집 알고리즘의 비교와 평가
+  * Ch 3.5.5 군집 알고리즘 요약
+  * Ch 3.6 요약 및 정리
